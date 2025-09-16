@@ -21,6 +21,7 @@ The data for this analysis is organized in a relational cloud database that is h
 
 ![Data_Structure_Table](Marketing_Project_Data_Structure.png)
 
+Manipulations, formatting, and data aggregations can be found in the detailed SQL code here.
 
 ## Executive Summary
 
