@@ -21,6 +21,7 @@ The data for this analysis is organized in a relational cloud database that is h
 
 ![Data_Structure_Table](Marketing_Project_Data_Structure.png)
 
+
 ## Executive Summary
 
 ## Insights Deep-Dive
