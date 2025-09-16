@@ -19,7 +19,7 @@ Insights and recommendations are provided in these key areas:
 
 The data for this analysis is organized in a relational cloud database that is hosted by Accel. Details of a marketing campaign are divided into various tables in a star schema, all linked using a primary key. The tables are Campaign Customer, Campaign_ Details, Campaign Location, and Campaign Outcomes. See Table 1 for the fields in the different data tables. 
 
-![DataTable](Marketing_Project_Data_Structure.png)
+![Data Structure Table](Marketing_Project_Data_Structure.png)
 
 ## Executive Summary
 
