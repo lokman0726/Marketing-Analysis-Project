@@ -25,4 +25,8 @@ Manipulations, formatting, and data aggregations can be found in the detailed SQ
 
 ## Executive Summary
 
+Overall, the number of campaigns increases during the summer months, likely due to seasonality trends. Arcoss campaigns for the first and the second half of the year, key indicators show higher number of campigns (xx%), higher conversion rates (xx%), and higher [insert metric](xx%). The following sections will highlight additional factors within the campaign dataset and dicsuss key opportunity areas for improvment. 
+
+Below is the overview page from the Tableau Dashboard, visualizing the trends and key metrics from the marketing campaign analysis. The entire dashboard can be viewed here: xxx
+
 ## Insights Deep-Dive
