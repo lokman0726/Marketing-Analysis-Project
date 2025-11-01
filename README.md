@@ -33,3 +33,5 @@ Below is the overview page from the Tableau Dashboard, visualizing the trends an
 Next, we will look at some tailored SQL queries or analysis for deeper dives. 
 
 ## Insights Deep-Dive
+
+First, campaign effectivenss varies between clients. Across key metrics, NextGen Systems has the most successful campaigns showing high Conversion Rate, ROI, and Engagement Rate. Conversely, acquistion cost is the highest for NexGen System likely due to . Additionally, we see slight summer seasonality boost as all key metrics for all clients increased over this period. After summer, we see Q4 Conversion Rate and ROI decrease for all across clients. 
