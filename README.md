@@ -36,9 +36,11 @@ Next, we will look at some tailored SQL queries or analysis for deeper dives.
 
 
 <img align = "right" width="400" src="Metrics_Table.png"><br/><br/><br/><br/>
-      First, campaign effectiveness varies between clients. Across key metrics, NextGen Systems has the most successful campaigns showing high Conversion Rate, ROI, and Engagement Rate. Conversely, acquisition cost is the highest for NexGen System, likely due to marketing spend efficiency. Additionally, we see a slight summer seasonality boost, as all key metrics for all clients increased over this period. After summer, we see Q4 Conversion Rate and ROI decrease for all clients.
+      First, campaign effectiveness varies between clients. Across key metrics, NextGen Systems has the most successful campaigns, showing high Conversion Rates, ROI, and Engagement Rates. Conversely, acquisition cost is the highest for NexGen System, likely due to marketing spend efficiency. Additionally, we see a slight summer seasonality boost, as all key metrics for all clients increased over this period. After summer, we see Q4 Conversion Rate and ROI decrease for all clients.
 
-<img align = "right" width="400" src="ChannelandCustomers.png"><br/><br/><br/><br/>
+<img align = "right" width="400" src="ChannelandCustomers.png"><br/><br/><br/>
+      Next, we start investigating customer segments and the channels used for marketing campaigns over time. Looking at the stacked bar graph on top, we can see Outdoor Enthusiasts and Foodies targeted campaigns spiked during the summer months. It signifies client over strategy to target specific customer segment and months where they are most active and willing to engage with marketing material. Subsequently, we can use the bottom stacked chart to see that these segments prefer Email, Google Ads, and Websites as the most engaging channels to reach them, as the same spike in those channels' campaigns is observed. 
+
 
 
 ## Recommendation 
