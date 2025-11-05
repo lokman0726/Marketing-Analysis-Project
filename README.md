@@ -27,7 +27,7 @@ Manipulations, formatting, and data aggregations can be found in the detailed SQ
 
 Overall, significant changes were observed during the end of Q2 and beginning of Q3—the summer months—likely due to seasonality trends. In Q4, we observed a drop-off from the summer months as all key indicators fell: number of campaigns (-16%), conversion rate (-6%), and ROI (-15%). Across campaigns for the first and second halves of the year, key indicators show a higher number of campaigns (+6%), and a slight increase in conversion rate (+2%) and ROI (+4%). All in all, the second half of the year seems to outperform the first half due to the summer month boost.  
 
-Below is the overview page from the Tableau Dashboard, visualizing the trends and key metrics from the marketing campaign analysis. The entire live dashboard can be viewed here: (placeholder)
+Below is the overview page from the Tableau Dashboard, visualizing the trends and key metrics from the marketing campaign analysis. The entire live dashboard can be viewed here:[ (Live Dashboard)](https://public.tableau.com/views/MarketingProject_17623100950970/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![Marketing Dashboard](Dashboard_png_new.png)
 
 Next, we will look at some tailored SQL queries or analysis for deeper dives. 
